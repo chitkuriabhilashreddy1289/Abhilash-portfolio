@@ -40,7 +40,7 @@ function App() {
   return (
     <div>
       <nav className="navbar">
-        <h2>Abhilash<span>.</span></h2>
+        <h2><span>Abhilash Reddy.</span></h2>
         <div>
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
