@@ -5,6 +5,13 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+.hero h1 {
+  color: #ffffff;
+}
+
+.hero h1 span {
+  color: #38bdf8;
+}
 
 body {
   background: #0b1120;
